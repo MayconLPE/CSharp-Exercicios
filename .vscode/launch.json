@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Exercicio1/bin/Debug/net7.0/Exercicio1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Exercicio1",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "C#: Exercicio1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Exercicio1\\Exercicio1.csproj",
+            "launchConfigurationId": "TargetFramework=;Exercicio1"
+        }
+    ]
+}

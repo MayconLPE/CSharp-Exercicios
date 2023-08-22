@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\bin\Debug\net7.0\Exercicio4.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\bin\Debug\net7.0\Exercicio4.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\bin\Debug\net7.0\Exercicio4.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\bin\Debug\net7.0\Exercicio4.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\bin\Debug\net7.0\Exercicio4.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\refint\Exercicio4.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\Exercicio4.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\Exercicio4\obj\Debug\net7.0\ref\Exercicio4.dll
