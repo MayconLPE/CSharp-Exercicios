@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\bin\Debug\net7.0\Exe01.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\bin\Debug\net7.0\Exe01.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\bin\Debug\net7.0\Exe01.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\bin\Debug\net7.0\Exe01.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\bin\Debug\net7.0\Exe01.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\refint\Exe01.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\Exe01.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\EstruturaSequencial\Exe01\Exe01\obj\Debug\net7.0\ref\Exe01.dll

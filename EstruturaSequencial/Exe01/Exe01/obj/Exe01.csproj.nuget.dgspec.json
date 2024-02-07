@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\Exercicio1\\Exercicio1.csproj": {}
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe01\\Exe01\\Exe01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\Exercicio1\\Exercicio1.csproj": {
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe01\\Exe01\\Exe01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\Exercicio1\\Exercicio1.csproj",
-        "projectName": "Exercicio1",
-        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\Exercicio1\\Exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe01\\Exe01\\Exe01.csproj",
+        "projectName": "Exe01",
+        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe01\\Exe01\\Exe01.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\Exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe01\\Exe01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
