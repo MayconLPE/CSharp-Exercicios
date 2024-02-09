@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\bin\Debug\net7.0\Exe06.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\bin\Debug\net7.0\Exe06.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\bin\Debug\net7.0\Exe06.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\bin\Debug\net7.0\Exe06.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\bin\Debug\net7.0\Exe06.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\refint\Exe06.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\Exe06.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exe06\obj\Debug\net7.0\ref\Exe06.dll

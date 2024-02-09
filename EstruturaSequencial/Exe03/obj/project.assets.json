@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\exe03\\Exe03\\Exe03.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe03\\Exe03.csproj",
       "projectName": "Exe03",
-      "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\exe03\\Exe03\\Exe03.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe03\\Exe03.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\exe03\\Exe03\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaSequencial\\Exe03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
