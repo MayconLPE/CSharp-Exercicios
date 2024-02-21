@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\bin\Debug\net7.0\Exer09.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\bin\Debug\net7.0\Exer09.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\bin\Debug\net7.0\Exer09.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\bin\Debug\net7.0\Exer09.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\bin\Debug\net7.0\Exer09.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\refint\Exer09.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\Exer09.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer09\obj\Debug\net7.0\ref\Exer09.dll
