@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\bin\Debug\net7.0\Exer08.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\bin\Debug\net7.0\Exer08.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\bin\Debug\net7.0\Exer08.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\bin\Debug\net7.0\Exer08.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\bin\Debug\net7.0\Exer08.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\refint\Exer08.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\Exer08.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\exer08\obj\Debug\net7.0\ref\Exer08.dll
