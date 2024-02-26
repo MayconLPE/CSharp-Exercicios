@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\bin\Debug\net7.0\Exer13.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\bin\Debug\net7.0\Exer13.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\bin\Debug\net7.0\Exer13.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\bin\Debug\net7.0\Exer13.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\bin\Debug\net7.0\Exer13.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\refint\Exer13.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\Exer13.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer13\obj\Debug\net7.0\ref\Exer13.dll
