@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\Exer17\\Exer17.csproj": {}
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\exer17\\Exer17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\Exer17\\Exer17.csproj": {
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\exer17\\Exer17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\Exer17\\Exer17.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\exer17\\Exer17.csproj",
         "projectName": "Exer17",
-        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\Exer17\\Exer17.csproj",
+        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\exer17\\Exer17.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\Exer17\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturasequencial\\exer17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

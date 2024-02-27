@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\bin\Debug\net7.0\Exer17.exe
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\bin\Debug\net7.0\Exer17.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\bin\Debug\net7.0\Exer17.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\bin\Debug\net7.0\Exer17.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\bin\Debug\net7.0\Exer17.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\refint\Exer17.dll
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\Exer17.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios\estruturasequencial\exer17\obj\Debug\net7.0\ref\Exer17.dll
