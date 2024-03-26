@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        // Faça um Programa que peça dois números e imprima o maior deles.
+        // 1.0 Faça um Programa que peça dois números e imprima o maior deles.
         int num1, num2;
 
         Console.WriteLine("Digite o primeiro numero:");

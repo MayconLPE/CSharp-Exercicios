@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturadedecisao\\Exer02\\Exer02.csproj": {}
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaDeDecisao\\Exer02\\Exer02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturadedecisao\\Exer02\\Exer02.csproj": {
+    "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaDeDecisao\\Exer02\\Exer02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturadedecisao\\Exer02\\Exer02.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaDeDecisao\\Exer02\\Exer02.csproj",
         "projectName": "Exer02",
-        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturadedecisao\\Exer02\\Exer02.csproj",
+        "projectPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaDeDecisao\\Exer02\\Exer02.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\estruturadedecisao\\Exer02\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Desktop\\CSharp-Exercicios\\EstruturaDeDecisao\\Exer02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
