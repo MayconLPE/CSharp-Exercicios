@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.sourcelink.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\bin\Debug\net8.0\Exer04.exe
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\bin\Debug\net8.0\Exer04.deps.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\bin\Debug\net8.0\Exer04.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\bin\Debug\net8.0\Exer04.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\bin\Debug\net8.0\Exer04.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\refint\Exer04.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\Exer04.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios\estruturadedecisao\exer04\obj\Debug\net8.0\ref\Exer04.dll
